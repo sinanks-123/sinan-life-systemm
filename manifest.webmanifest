@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "SINAN — My Life System",
+  "short_name": "Sinan Life",
+  "description": "Personal daily tracker for routines, NDA preparation, fitness and growth.",
+  "lang": "ml-IN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f16",
+  "theme_color": "#10151f",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
